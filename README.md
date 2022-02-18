@@ -12,6 +12,7 @@
 <p align="left">
 <a href="https://twitter.com/@juanluispalac20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@juanluispalac20" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/juan-luis-palacios-p%c3%a9rez-95b39a228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="juan-luis-palacios-p%c3%a9rez-95b39a228" height="30" width="40" /></a>
+<a href="https://medium.com/@juan.luis.palacios.p" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@juan.luis.palacios.p" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
