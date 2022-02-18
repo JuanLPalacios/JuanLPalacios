@@ -4,9 +4,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanlpalacios&label=Profile%20views&color=0e75b6&style=flat" alt="juanlpalacios" /> </p>
 
+<p>I'm a person with mani interest most of them related to programing.</p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=juanlpalacios" alt="juanlpalacios" /></a> </p>
 
+- 🔭 I’m currently working on [To-Do List](https://github.com/JuanLPalacios/todo-list)
+
+- 🌱 I’m currently learning **Ruby on Rails**
+
 - 💬 Ask me about **React, Apprun**
+
+- 📫 How to reach me **juan.luis.palacios.p@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
