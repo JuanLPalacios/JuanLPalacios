@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juanlpalacios&label=Profile%20views&color=0e75b6&style=flat" alt="juanlpalacios" /> </p>
 
-<p>I'm a person with mani interest most of them related to programing.</p>
+<p>I'm a person with many interests most of them related to programming.</p>
 
 - 🔭 I’m currently working on [To-Do List](https://github.com/JuanLPalacios/todo-list)
 
