@@ -6,9 +6,9 @@
 
 <p>I'm a person with many interests most of them related to programming.</p>
 
-- 🔭 I’m currently working on [To-Do List](https://github.com/JuanLPalacios/todo-list)
+- 🔭 I’m currently working on [f3-cli-tool](https://github.com/JuanLPalacios/f3-cli-tool/tree/dev)
 
-- 🌱 I’m currently learning **Ruby on Rails**
+- 🌱 I’m currently learning **Data cluster analysis**
 
 - 💬 Ask me about **React, Apprun**
 
